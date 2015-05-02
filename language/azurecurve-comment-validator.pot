@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: azurecurve Comment Validator\n"
+"POT-Creation-Date: 2015-04-29 14:34-0000\n"
+"PO-Revision-Date: 2015-04-29 14:35-0000\n"
+"Last-Translator: azurecurve Wordpress Development <wordpressdev@azurecurve."
+"co.uk>\n"
+"Language-Team: azurecurve WordPress Development <wordpressdev@azurecurve.co."
+"uk>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azurecurve-comment-validator.php:108
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azurecurve-comment-validator.php:116 azurecurve-comment-validator.php:223
+msgid "azurecurve Comment Validator Settings"
+msgstr ""
+
+#: azurecurve-comment-validator.php:119
+msgid "Settings have been saved."
+msgstr ""
+
+#: azurecurve-comment-validator.php:129
+msgid "Use Network Settings"
+msgstr ""
+
+#: azurecurve-comment-validator.php:131
+msgid "Settings below will be ignored in preference of network settings"
+msgstr ""
+
+#: azurecurve-comment-validator.php:134 azurecurve-comment-validator.php:231
+msgid "Minimum Length"
+msgstr ""
+
+#: azurecurve-comment-validator.php:136 azurecurve-comment-validator.php:233
+msgid "Minimum comment length; set to 0 for no minimum"
+msgstr ""
+
+#: azurecurve-comment-validator.php:138 azurecurve-comment-validator.php:235
+msgid "Maximum Length"
+msgstr ""
+
+#: azurecurve-comment-validator.php:140 azurecurve-comment-validator.php:237
+msgid "Maximum comment length; set to 0 for no maximum"
+msgstr ""
+
+#: azurecurve-comment-validator.php:142 azurecurve-comment-validator.php:239
+msgid "Moderation Length"
+msgstr ""
+
+#: azurecurve-comment-validator.php:144 azurecurve-comment-validator.php:241
+msgid "Moderation comment length; set to 0 for no moderation"
+msgstr ""
+
+#: azurecurve-comment-validator.php:163 azurecurve-comment-validator.php:217
+#: azurecurve-comment-validator.php:252
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+#: azurecurve-comment-validator.php:286
+msgid ""
+"<strong>ERROR</strong>: this comment is shorter than the minimum allowed "
+"size."
+msgstr ""
+
+#: azurecurve-comment-validator.php:291
+msgid ""
+"<strong>ERROR</strong>: this comment is longer than the maximum allowed size."
+msgstr ""
